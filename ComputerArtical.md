@@ -19,4 +19,4 @@ i.e., the stored-program concept.[3][4] Two other early and important examples a
    * John von Neumann's 1945 paper, First Draft of a Report on the EDVAC, which described an organization of logical elements;[5] and
    * Alan Turing's more detailed Proposed Electronic Calculator for the Automatic Computing Engine, also 1945 and which cited John von Neumann's paper.[6]
    
-   []!(https://wanemclubstore.files.wordpress.com/2017/10/5f013-core_architecture.gif?w=816&h=9999)
+   [](https://wanemclubstore.files.wordpress.com/2017/10/5f013-core_architecture.gif?w=816&h=9999)
