@@ -13,5 +13,5 @@ In this website, you'll find various topics realted to web development _explaine
 | Topic      |
 | :-----:|
 |[Growth Mindset](https://hamza-rashed.github.io/reade-notes/GrowthMindset)|
-|[Choosing a Text Editor](https://hamza-rashed.github.io/reade-notes/Read2|
+|[Choosing a Text Editor](https://hamza-rashed.github.io/reade-notes/Read2)|
 
