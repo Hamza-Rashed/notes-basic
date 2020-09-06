@@ -13,10 +13,14 @@ I am now working as a full stack developer
 ###### The Growth Mindset is that when somebody or person thought he can developed his self by hard working and exploit his skills as a start point to gooo .   
   
 What I do  to keep yourself in a growth mindset
-- Joining Tranining about my Intersted Filed
-- Matching with pepole with the same Intersted 
-- Managing my Time 
-- playing Online Games HUHUHUHUHU
+___
+| number | to do | 
+|-----|----|
+|1|Joining Tranining about my Intersted Filed|
+|2|Matching with pepole with the same Intersted |
+|3|Managing my Time |
+|4|playing Online Games HUHUHUHUHU|
+___
 
 For More Info About Growth Mindset
 [Growth Mindse](https://www.atlassian.com/blog/inside-atlassian/growth-mindset).
