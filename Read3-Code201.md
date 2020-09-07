@@ -77,7 +77,7 @@ if the condition returns true a code block will keep running until the condition
 |  Git&GitHub   |  [link](https://hamza-rashed.github.io/reade-notes/Git&GitHub)  |
 | GrowthMindset   | [link](https://hamza-rashed.github.io/reade-notes/GrowthMindset)                                                                      |
 | HTML-CSS-PJS   |  [link](https://hamza-rashed.github.io/reade-notes/HTML-CSS-PJS)                                                                     |
-|  README lab a1  | [link](https://hamza-rashed.github.io/reade-notes/README lab a1)                                                                      |
+|  README lab a1  | [link](https://hamza-rashed.github.io/reade-notes/README-lab-a1)                                                                      |
 
 
 
