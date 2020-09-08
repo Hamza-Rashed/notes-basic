@@ -22,5 +22,15 @@ ___
 |4|playing Online Games HUHUHUHUHU|
 ___
 
+| Syntax        | Description                                                           |
+| --------------| ----------------------------------------------------------------------|
+| NUM           | Reading assigments                                                    |
+|   AboutCSS    |   [Link](https://hamza-rashed.github.io/reade-notes/AboutCSS) |
+|   ComputerArtical   |  [Link](https://hamza-rashed.github.io/reade-notes/ComputerArtical) |
+|  Git&GitHub   |  [link](https://hamza-rashed.github.io/reade-notes/Git&GitHub)  |
+| GrowthMindset   | [link](https://hamza-rashed.github.io/reade-notes/GrowthMindset)                                                                      |
+| HTML-CSS-PJS   |  [link](https://hamza-rashed.github.io/reade-notes/HTML-CSS-PJS)                                                                     |
+|  README lab a1  | [link](https://hamza-rashed.github.io/reade-notes/README-lab-a1)                                                                      |
+
 For More Info About Growth Mindset
 [Growth Mindse](https://www.atlassian.com/blog/inside-atlassian/growth-mindset).
