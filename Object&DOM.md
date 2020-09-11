@@ -16,8 +16,8 @@ a mix of boredom and anxiety from feeling lost, uninformed, and out of controle 
 
 So, firstly, how do we create an object? We can do it two ways:
 
-``` javascript var x = new Object();
-var y = {}; ```
+``` javascript var x = new Object(); ```
+``` javascript var y = {}; ```
 
 Both of these mean exactly the same thing & both simply instantiate an empty object. In reality, the vast majority of developers use the second method - it's a lot shorter whilst still being clear as to what it does.
 
@@ -25,16 +25,20 @@ As a side note, this is identical to how we might create new arrays, either thro
 
 Now we have this object, we can define properties (or keys) and values. This can be done in a number of ways. You can create an empty object & then add properties:
 
-``` javascript var x = {};
-x.foo = "bar";
-x["baz"] = 123; ```
+``` javascript var x = {}; ```
+
+``` javascript x.foo = "bar"; ```
+``` javascript x["baz"] = 123; ```
 
 You'll notice the two ways of assigning properties. You can either use the dot notation or the square brackets. The differences between the two are easily shown through this code snippet:
 
-``` javascript //x = some object
-var bar = "foo"
-x.bar //looks for "bar" property in object "x"
-x[bar] //looks for "foo" property in object "x" ```
+``` javascript //x = some object ```
+   
+``` javascript var bar = "foo" ```
+   
+``` javascript x.bar //looks for "bar" property in object "x" ```
+   
+``` javascript x[bar] //looks for "foo" property in object "x" ```
 
 
 # DOM 
