@@ -21,7 +21,7 @@ to understand which is the best layout tool for each task.
 
 ## The methods that can change how elements are laid out in CSS are as follows:
 
-    The display property — Standard values such as block, inline or inline-block can change how 
+   > The display property — Standard values such as block, inline or inline-block can change how 
     elements behave in normal flow, for example making a block-level element behave like an inline
     element (see Types of CSS boxes for more information). We also have entire layout methods that
     are switched on via specific display values, for example CSS Grid and Flexbox, which alter how 
@@ -36,6 +36,6 @@ to understand which is the best layout tool for each task.
     Multi-column layout — The Multi-column layout properties can cause the content of a block to layout
     in columns, as you might see in a newspaper.
     
-    ![](https://media.geeksforgeeks.org/wp-content/uploads/website_layout-300x268.png)
+   * ![](https://media.geeksforgeeks.org/wp-content/uploads/website_layout-300x268.png)
     
     
