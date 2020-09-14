@@ -17,6 +17,8 @@ Each technique has its uses, advantages, and disadvantages, and no technique is 
 used in isolation. By understanding what each method is designed for you will be in a good place 
 to understand which is the best layout tool for each task.
 
+![](https://miro.medium.com/max/1024/1*XCZZZmhQN4rHLw2dW14BZQ.png)
+
 ## The methods that can change how elements are laid out in CSS are as follows:
 
     The display property — Standard values such as block, inline or inline-block can change how 
