@@ -35,3 +35,7 @@ to understand which is the best layout tool for each task.
     elements using display: table and associated properties.
     Multi-column layout — The Multi-column layout properties can cause the content of a block to layout
     in columns, as you might see in a newspaper.
+    
+    ![](https://media.geeksforgeeks.org/wp-content/uploads/website_layout-300x268.png)
+    
+    
