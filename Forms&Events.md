@@ -71,25 +71,21 @@ Basic table: Set up a table with three headings to your page, by adding the foll
        <td>2PM Lecture</td>
       </tr>
     </table>
+![](https://1.bp.blogspot.com/-3V1DEl5pM5Y/XoKBbZcDFJI/AAAAAAAAFw8/hDQWOQOQ_LEJZ9QdZ-ijgtp9XjBMbAW6QCLcBGAsYHQ/s1600/9.png)
+
+# What are web forms?
+
+Web forms are one of the main points of interaction between a user and a web site or application. Forms allow users to enter data, which is generally sent to a web server for processing and storage (see Sending form data later in the module), or used on the client-side to immediately update the interface in some way (for example, add another item to a list, or show or hide a UI feature).
+
+A web form's HTML is made up of one or more form controls (sometimes called widgets), plus some additional elements to help structure the overall form — they are often referred to as HTML forms. The controls can be single or multi-line text fields, dropdown boxes, buttons, checkboxes, or radio buttons, and are mostly created using the <input> element, although there are some other elements to learn about too.
+
+Form controls can also be programmed to enforce specific formats or values to be entered (form validation), and paired with text labels that describe their purpose to both sighted and blind users.
 
 
+# Event jacascript :
 
+DOM Events are sent to notify code of interesting things that have taken place. Each event is represented by an object which is based on the Event interface, and may have additional custom fields and/or functions used to get additional information about what happened. Events can represent everything from basic user interactions to automated notifications of things happening in the rendering model.
 
+This article offers a list of events that can be sent; some are standard events defined in official specifications, while others are events used internally by specific browsers; for example, Mozilla-specific events are listed so that add-ons can use them to interact with the browser.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![](https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/07/JavaScript-Event-Types-640x480.jpg)
